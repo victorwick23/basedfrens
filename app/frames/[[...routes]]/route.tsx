@@ -27,7 +27,9 @@ app.frame("/", (c) => {
     image: "/collection.gif",
     imageAspectRatio: "1:1",
     intents: [
-      <Button.Link href="https://google.com">Subscribe</Button.Link>,
+      <Button.Link href="https://www.alfafrens.com/channel/0x5e080e886c7504ac35f33672c975c906392f41dc">
+        Subscribe
+      </Button.Link>,
       <Button.Link href="https://highlight.xyz/mint/664b997339b36761c7f2102d">
         Mint
       </Button.Link>,
